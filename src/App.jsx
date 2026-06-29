@@ -14,7 +14,7 @@ export default function App() {
     <div className="min-h-screen bg-slate-50 text-slate-900 font-sans">
       <header className="bg-gradient-to-r from-blue-700 to-indigo-800 text-white py-6 px-4 shadow-md text-center">
         <h1 className="text-2xl md:text-3xl font-extrabold tracking-tight">Dr. Dereje Kebede Archive</h1>
-        <p className="text-blue-200 mt-1 text-xs md:text-sm font-medium">Volumes 1 - 10 Core Lyrics Library</p>
+        <p className="text-blue-200 mt-1 text-xs md:text-sm font-medium">Volumes 1 - 10 Lyrics Library</p>
       </header>
 
       <div className="max-w-7xl mx-auto px-4 py-6 grid grid-cols-1 md:grid-cols-4 gap-6">
